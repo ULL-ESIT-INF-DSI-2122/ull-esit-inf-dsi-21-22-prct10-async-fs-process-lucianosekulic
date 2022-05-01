@@ -1,0 +1,10 @@
+{
+    "entryPoints": [
+      "./src/AppNotas/notas.ts",
+      "./src/AppNotas/notasApp.ts",
+      "./src/Ejercicio1/index.ts",
+      "./src/Ejercicio3/watchNotas.ts",
+      "./src/Ejercicio4/ejercicio4.ts"
+    ],
+    "out": "./docs"
+  }
